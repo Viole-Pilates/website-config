@@ -1,4 +1,4 @@
-const GTM_ID = import.meta.env.VITE_GTM_ID;
+const GTM_ID = import.meta.env.VITE_GTM_ID || '';;
 
 import { HeadContent, Scripts, createRootRoute } from '@tanstack/react-router'
 
