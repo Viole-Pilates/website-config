@@ -1,6 +1,6 @@
 import { createFileRoute } from '@tanstack/react-router'
 import { Header } from '@/components/Header'
-import { BookingForm } from '@/components/BookingForm'
+
 
 export const Route = createFileRoute('/')({
   component: Home,
@@ -134,7 +134,7 @@ function Home() {
             session.
           </p>
           <div className="mt-10">
-            <BookingForm />
+           
           </div>
         </div>
       </section>
