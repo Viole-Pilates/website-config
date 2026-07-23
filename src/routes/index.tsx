@@ -39,7 +39,7 @@ function Home() {
               Move stronger. Move freer. Move for life.
             </h1>
             <p className="mt-6 text-lg leading-relaxed text-stone-600">
-              I'm Alex — a Pilates, bodyweight training, and mobility coach
+              I'm Viole — a Pilates, bodyweight training, and mobility coach
               helping people rebuild strength and confidence in their bodies,
               one session at a time.
             </p>
@@ -72,18 +72,10 @@ function Home() {
           </h2>
           <div className="mt-6 space-y-5 text-lg leading-relaxed text-stone-600">
             <p>
-              A few years ago, chronic tightness and a string of nagging
-              injuries pushed me to look for something more sustainable than
-              high-impact workouts. Pilates gave me control over my body for
-              the first time. Bodyweight training gave me strength I could
-              carry anywhere. Mobility work gave me freedom of movement I
-              hadn't felt in years.
+              I have been active in sports since I can remember. That route of athletic exploration would eventually lead me to gain a much deeper understanding of the human body and adapt a comprehensive multifaceted training routine with the ultimate goal set on longevity in strength, mobility and movement.
             </p>
             <p>
-              That transformation is what led me to become a certified coach.
-              Now I help clients of all backgrounds and fitness levels build
-              the same foundation: a stronger core, better movement patterns,
-              and a body that feels good to live in.
+              Instead of repeating one-sided, destructive training routines for short-term goals, a complete plan with adequate preparation and execution that addresses the entire interconnected dependencies of our body will reach the same goals and beyond – preserving health and simultaneously minimizing the risk of injury and degradation.
             </p>
             <p>
               Whether you're recovering from injury, starting from zero, or
@@ -140,7 +132,7 @@ function Home() {
       </section>
 
       <footer className="border-t border-stone-200 py-10 text-center text-sm text-stone-500">
-        © {new Date().getFullYear()} Alex Rivera Coaching. All rights
+        © {new Date().getFullYear()} Viole Pilates Coaching. All rights
         reserved.
       </footer>
     </div>
