@@ -5,7 +5,7 @@ export function Header() {
     <header className="sticky top-0 z-40 border-b border-stone-200/70 bg-stone-50/90 backdrop-blur">
       <div className="mx-auto flex max-w-6xl items-center justify-between px-5 py-4">
         <Link to="/" className="text-lg font-semibold tracking-tight">
-          Alex Rivera <span className="text-emerald-700">Coaching</span>
+          Viole <span className="text-emerald-700">Coaching</span>
         </Link>
         <nav className="hidden items-center gap-8 text-sm font-medium text-stone-600 sm:flex">
           <a href="#journey" className="hover:text-stone-900">
