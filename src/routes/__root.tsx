@@ -15,7 +15,7 @@ export const Route = createRootRoute({
         content: 'width=device-width, initial-scale=1',
       },
       {
-        title: 'Maren Cole — Pilates, Bodyweight & Mobility Coaching',
+        title: 'Viole — Pilates, Bodyweight & Mobility Coaching',
       },
       {
         name: 'description',
